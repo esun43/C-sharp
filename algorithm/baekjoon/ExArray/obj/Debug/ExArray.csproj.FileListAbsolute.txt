@@ -1,0 +1,7 @@
+D:\github\C-sharp\algorithm\baekjoon\ExArray\bin\Debug\ExArray.exe.config
+D:\github\C-sharp\algorithm\baekjoon\ExArray\bin\Debug\ExArray.exe
+D:\github\C-sharp\algorithm\baekjoon\ExArray\bin\Debug\ExArray.pdb
+D:\github\C-sharp\algorithm\baekjoon\ExArray\obj\Debug\ExArray.csprojAssemblyReference.cache
+D:\github\C-sharp\algorithm\baekjoon\ExArray\obj\Debug\ExArray.csproj.CoreCompileInputs.cache
+D:\github\C-sharp\algorithm\baekjoon\ExArray\obj\Debug\ExArray.exe
+D:\github\C-sharp\algorithm\baekjoon\ExArray\obj\Debug\ExArray.pdb
